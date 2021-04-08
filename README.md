@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gitsaugat
+- 👋 Hi, I’m Full Stack Software Devloper.
 - 👀 I’m interested in Technology  which includes programming Dealing With real world issues fixing bugs
-- 🌱 I’m currently learning Wp plugin development
+- 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on a big tech company
-- 📫 How to reach me saugat.themegrill@gmail.com
+- 📫 Reach me : saugat.themegrill@gmail.com
 
 <!---
 gitsaugat/gitsaugat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
